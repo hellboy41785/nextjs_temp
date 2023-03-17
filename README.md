@@ -2,8 +2,10 @@
 ## Getting Started
 
 First, run the development server:
-npx create-next-app --example https://github.com/hellboy41785/nextjs_temp test-template
+
 ```bash
+npx create-next-app --example https://github.com/hellboy41785/nextjs_temp test-template
+
 npm run dev
 # or
 yarn dev
